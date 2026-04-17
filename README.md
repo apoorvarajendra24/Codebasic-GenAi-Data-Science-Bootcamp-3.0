@@ -141,24 +141,7 @@ This repository tracks my progress, projects, notes, and learnings from the **Co
 ## 📂 Repository Structure
 
 ```
-📦 codebasics-genai-ds-bootcamp
-├── 01_foundations/
-│   ├── python/
-│   ├── sql/
-│   └── statistics/
-├── 02_machine_learning/
-├── 03_deep_learning/
-├── 04_nlp/
-├── 05_generative_ai/
-├── 06_agentic_ai/
-├── 07_deployment/
-├── projects/
-│   ├── real_estate_rag_assistant/
-│   ├── ecommerce_chatbot/
-│   ├── credit_risk_classifier/
-│   └── ...
-├── virtual_internship/
-└── README.md
+
 ```
 
 ---
