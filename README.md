@@ -1,1 +1,0 @@
-# Codebasic-GenAi-Data-Science-Bootcamp-3.0
