@@ -1,0 +1,4 @@
+Hello i am a python learner.
+This is how you create and write in a file.
+Right now i am also preparing for higher education, Mtech.
+Since 2023.

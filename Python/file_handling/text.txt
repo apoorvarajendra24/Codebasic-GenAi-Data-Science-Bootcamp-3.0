@@ -1,0 +1,4 @@
+Teacher: "Why are you late?"
+Student: "Because of the sign"
+Teacher: "What sign?"
+Stundet: "The one that says 'School ahead, Go Slow'"
