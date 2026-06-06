@@ -1,0 +1,14 @@
+{
+    "name": "Amrendra",
+    "age": 30,
+    "is_employee": true,
+    "skills": [
+        "Python",
+        "Data Analyst",
+        "Machine Learning"
+    ],
+    "address": {
+        "street": "vinayak road",
+        "city": "Mahishmati"
+    }
+}
