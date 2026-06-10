@@ -6,3 +6,5 @@ pandas
 openpyxl
 matplotlib
 seaborn
+requests
+fastapi[standard]
