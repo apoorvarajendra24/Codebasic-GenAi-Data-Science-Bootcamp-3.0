@@ -1,0 +1,9 @@
+streamlit
+fastapi
+pydantic
+uvicorn
+mysql-connector-python
+pandas
+requests
+pytest
+plotly

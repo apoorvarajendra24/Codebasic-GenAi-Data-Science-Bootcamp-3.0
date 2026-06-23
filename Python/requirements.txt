@@ -12,3 +12,5 @@ pytest
 nbval # pytest generally does not work on jupyter nootbooks. To do so install this plugin
 mysql-connector-python
 pydantic
+streamlit
+plotly
